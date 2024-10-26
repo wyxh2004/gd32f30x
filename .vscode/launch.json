@@ -8,10 +8,10 @@
             "request": "launch",
             "type": "cortex-debug",
             "runToEntryPoint": "main",
-            "serverpath": "D:/SEGGER/JLink_V810a/JLinkGDBServerCL.exe",
+            "serverpath": "E:/JLink_V810b/JLinkGDBServerCL.exe",
             "servertype": "jlink",
             "device": "GD32F303RCT6",
-            "svdPath": "D:/compile-environment/EmbeddedBuilder_v1.4.1.23782/EmbeddedBuilder/plugins/com.gigadevice.resources_1.0.0.202406140948/svd/GD32F30x_HD.svd",
+            "svdPath": "E:/EmbeddedBuilder_v1.4.1.23782/EmbeddedBuilder_v1.4.1.23782/EmbeddedBuilder/plugins/com.gigadevice.resources_1.0.0.202406140948/svd/GD32F30x_HD.svd",
             "liveWatch": {
                 "enabled": true,
                 "samplesPerSecond": 1

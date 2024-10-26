@@ -1,6 +1,14 @@
 {
     "files.associations": {
-        "*.ld": "c",
-        "gd32f30x_libopt.h": "c"
-    }
+      "*.cjson": "jsonc",
+      "*.ld": "c",
+      "gd32f30x_libopt.h": "c",
+      "main.h": "c",
+      "gd32f307c_eval.h": "c",
+      "stdio.h": "c",
+      "systick.h": "c",
+      "gd32f30x.h": "c"
+    },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd",
 }

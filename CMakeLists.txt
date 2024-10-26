@@ -18,17 +18,24 @@ else()
 endif()
 
 include_directories(
+    "C:/mingw64/x86_64-w64-mingw32/include"
     ${CMAKE_CURRENT_LIST_DIR}/Firmware/Firmware/CMSIS/
     ${CMAKE_CURRENT_LIST_DIR}/Firmware/Firmware/CMSIS/GD/GD32F30x/Include/
     ${CMAKE_CURRENT_LIST_DIR}/Firmware/Firmware/GD32F30x_standard_peripheral/Include/
     ${CMAKE_CURRENT_LIST_DIR}/Firmware/inc/
 )
 
+link_directories(C:/mingw64/x86_64-w64-mingw32/lib)
+
+
 file(GLOB SOURCE_FILE
     ${CMAKE_CURRENT_LIST_DIR}/Firmware/Firmware/CMSIS/GD/GD32F30x/Source/*.c
     ${CMAKE_CURRENT_LIST_DIR}/Firmware/Firmware/GD32F30x_standard_peripheral/Source/*.c
     ${CMAKE_CURRENT_LIST_DIR}/Firmware//src/*.c
 )
+
+# enable compile_commands.json
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 set(EXECUTABLE_OUTPUT_PATH ${CMAKE_BINARY_DIR}/output)
 set(HEX_FILE ${EXECUTABLE_OUTPUT_PATH}/${PROJECT_NAME}.hex)
@@ -42,7 +49,7 @@ if(USE_ARMGCC)
     add_compile_options(
         -mcpu=${CPU_CORE}
         -mthumb
-        -mthumb-interwork
+        # -mthumb-interwork
         -ffunction-sections
         -fdata-sections
         -fno-common

@@ -1,3 +1,3 @@
-D:/CodingSpace/CMake_Test/build/CMakeFiles/TEST.dir
-D:/CodingSpace/CMake_Test/build/CMakeFiles/edit_cache.dir
-D:/CodingSpace/CMake_Test/build/CMakeFiles/rebuild_cache.dir
+E:/coding/gd32f30x/build/CMakeFiles/TEST.dir
+E:/coding/gd32f30x/build/CMakeFiles/edit_cache.dir
+E:/coding/gd32f30x/build/CMakeFiles/rebuild_cache.dir

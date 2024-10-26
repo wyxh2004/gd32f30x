@@ -1,0 +1,194 @@
+[
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\src\\gd32f307c_eval.c.obj -c E:\\coding\\gd32f30x\\Firmware\\src\\gd32f307c_eval.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\src\\gd32f307c_eval.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\src\\gd32f307c_eval.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\src\\gd32f30x_it.c.obj -c E:\\coding\\gd32f30x\\Firmware\\src\\gd32f30x_it.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\src\\gd32f30x_it.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\src\\gd32f30x_it.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\src\\main.c.obj -c E:\\coding\\gd32f30x\\Firmware\\src\\main.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\src\\main.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\src\\main.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\src\\systick.c.obj -c E:\\coding\\gd32f30x\\Firmware\\src\\systick.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\src\\systick.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\src\\systick.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\src\\union.c.obj -c E:\\coding\\gd32f30x\\Firmware\\src\\union.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\src\\union.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\src\\union.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\CMSIS\\GD\\GD32F30x\\Source\\syscalls.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\CMSIS\\GD\\GD32F30x\\Source\\syscalls.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\CMSIS\\GD\\GD32F30x\\Source\\syscalls.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\CMSIS\\GD\\GD32F30x\\Source\\syscalls.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\CMSIS\\GD\\GD32F30x\\Source\\system_gd32f30x.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\CMSIS\\GD\\GD32F30x\\Source\\system_gd32f30x.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\CMSIS\\GD\\GD32F30x\\Source\\system_gd32f30x.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\CMSIS\\GD\\GD32F30x\\Source\\system_gd32f30x.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_adc.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_adc.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_adc.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_adc.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_bkp.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_bkp.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_bkp.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_bkp.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_can.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_can.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_can.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_can.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_crc.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_crc.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_crc.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_crc.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_ctc.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_ctc.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_ctc.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_ctc.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_dac.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_dac.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_dac.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_dac.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_dbg.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_dbg.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_dbg.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_dbg.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_dma.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_dma.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_dma.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_dma.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_enet.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_enet.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_enet.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_enet.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_exmc.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_exmc.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_exmc.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_exmc.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_exti.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_exti.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_exti.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_exti.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_fmc.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_fmc.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_fmc.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_fmc.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_fwdgt.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_fwdgt.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_fwdgt.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_fwdgt.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_gpio.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_gpio.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_gpio.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_gpio.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_i2c.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_i2c.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_i2c.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_i2c.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_misc.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_misc.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_misc.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_misc.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_pmu.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_pmu.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_pmu.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_pmu.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_rcu.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_rcu.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_rcu.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_rcu.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_rtc.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_rtc.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_rtc.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_rtc.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_sdio.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_sdio.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_sdio.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_sdio.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_spi.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_spi.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_spi.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_spi.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_timer.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_timer.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_timer.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_timer.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_usart.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_usart.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_usart.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_usart.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -fdiagnostics-color=always -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_wwdgt.c.obj -c E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_wwdgt.c",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_wwdgt.c",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\Firmware\\GD32F30x_standard_peripheral\\Source\\gd32f30x_wwdgt.c.obj"
+},
+{
+  "directory": "E:/coding/gd32f30x/cmake-build-debug",
+  "command": "E:\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\arm-gnu-toolchain-13.3.rel1-mingw-w64-i686-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -IC:/mingw64/x86_64-w64-mingw32/include -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS -IE:/coding/gd32f30x/Firmware/Firmware/CMSIS/GD/GD32F30x/Include -IE:/coding/gd32f30x/Firmware/Firmware/GD32F30x_standard_peripheral/Include -IE:/coding/gd32f30x/Firmware/inc -g -Og -g -mcpu=cortex-m4 -mthumb -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o CMakeFiles\\TEST.dir\\Firmware\\gcc_startup\\startup_gd32f30x_hd.S.obj -c E:\\coding\\gd32f30x\\Firmware\\gcc_startup\\startup_gd32f30x_hd.S",
+  "file": "E:\\coding\\gd32f30x\\Firmware\\gcc_startup\\startup_gd32f30x_hd.S",
+  "output": "CMakeFiles\\TEST.dir\\Firmware\\gcc_startup\\startup_gd32f30x_hd.S.obj"
+}
+]
